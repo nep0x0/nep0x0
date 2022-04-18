@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niansyah Eko Putra</h1>
-<h3 align="center">A passionate backend developer from Indonesia</h3>
+<h3 align="center">A yound Full-Stack web developer from Indonesia</h3>
 
 - 🔭 I’m currently Studying on [Dinamika Bangsa University](unama.ac.id)
 
