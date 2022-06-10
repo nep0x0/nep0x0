@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nep0x0](https://github.com/nep0x0)
 
-- 📫 How to reach me **nepaka15.sepatu@gmail.com**
+- 📫 How to reach me **instagram=nep0x0**
 
 - 📄 Know about my experiences [https://github.com/nep0x0](https://github.com/nep0x0)
 
