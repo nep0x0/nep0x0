@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://github.com/nep0x0](https://github.com/nep0x0)
 
-- ⚡ Fun fact **I think I am funny about**
+- ⚡ Fun fact **orang yang suka belajar hal baru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
