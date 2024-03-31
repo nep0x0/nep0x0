@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://github.com/nep0x0](https://github.com/nep0x0)
 
-- ⚡ Fun fact **longlige learner**
+- ⚡ Fun fact **longlife learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
