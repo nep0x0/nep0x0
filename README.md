@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/nep0x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nep0x0" height="30" width="40" /></a> -->
-<a href="[[https://linkedin.com/in/nep0x0](https://github.com/nep0x0)]()" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nep0x0" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/niansyah-eko-putra-5b83101a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nep0x0" height="30" width="40" /></a>
 <a href="https://instagram.com/nep0x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nep0x0" height="30" width="40" /></a>
 <!-- <a href="https://www.youtube.com/c/nep0x0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nep0x0" height="30" width="40" /></a>
 </p> -->
