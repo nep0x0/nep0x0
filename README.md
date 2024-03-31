@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Niansyah</h1>
-<h3 align="center">A yound Programmer from Indonesia</h3>
+<h3 align="center">A young Programmer from Indonesia</h3>
 
 - 🔭 I’m currently Studying on [Dinamika Bangsa University](unama.ac.id)
 
